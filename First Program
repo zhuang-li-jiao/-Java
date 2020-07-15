@@ -1,0 +1,8 @@
+public class a
+{
+public static void main(string [] arg)
+{
+    system.out.println("she is a beautiful girl!");
+}
+}
+  
