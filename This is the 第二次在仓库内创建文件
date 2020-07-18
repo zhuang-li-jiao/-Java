@@ -1,0 +1,5 @@
+11112223334444
+public static void main(String [] arg)
+{
+system.out.println("我是帅哥");
+}
